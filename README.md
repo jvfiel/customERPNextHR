@@ -8,5 +8,5 @@ MIT# customERPNextHR
 
 How to Install
 
-1. bench get-app payslip_app https://github.com/jvfiel/erpnext_shopify.git
+1. bench get-app payslip_app https://github.com/jvfiel/customERPNextHR.git
 2. bench install-app payslip_app
