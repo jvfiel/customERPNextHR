@@ -120,3 +120,9 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "payslip_app.event.get_events"
 # }
 
+
+fixtures = [
+    "Custom Field",
+    "Custom Script",
+    "Property Setter"
+]
